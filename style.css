@@ -1,0 +1,185 @@
+body{
+  background-color:#F0E68C;
+}
+
+p, h1, h2{
+  font-family:Sans-Serif;
+  text-align:center
+}
+
+hr{
+  color:black;
+  width:1200px;
+  height:2px;
+}
+
+video{
+  border:5px;
+}
+
+.h1n1 {
+  font-family:Verdana;
+  font-weight:bold;
+  margin-bottom:10px;
+  margin-top:20px;
+}
+
+.p1 {
+  font-family:Verdana;
+  margin-top:0;
+  margin-bottom:20px;
+}
+
+.h1n2{
+  font-size:165%;
+  margin-top:25px;
+  margin-bottom:1px;
+}
+
+li{
+  font-size:17px;
+  font-family:Sans-Serif;
+  line-height:36px;
+  padding-left:500px;
+}
+
+.ul1{
+  list-style-position:inside;
+}
+
+.h2n1{
+  font-weight:bold;
+  font-family:Sans-Serif;
+  text-align:center;
+  margin:20px;
+}
+
+.p2{
+  font-family:Sans-Serif;
+  text-align:left;
+  margin-left:380px;
+  width:620px;
+}
+
+.p3{
+  font-family:Sans-Serif;
+  text-align:left;
+  margin-left:380px;
+  width:620px;
+}
+
+.p4{
+  font-family:Sans-Serif;
+  text-align:left;
+  margin-left:380px;
+  width:620px;
+}
+
+.h2n2{
+  font-family:Sans-Serif;
+  text-align:center;
+  margin-top:50px;
+}
+
+.p5{
+  font-family:Sans-Serif;
+  text-align:left;
+  margin-left:380px;
+  width:620px;
+}
+
+.p6{
+  font-family:Sans-Serif;
+  text-align:left;
+  margin-left:380px;
+  width:620px;
+}
+
+.li1{
+  font-size:17px;
+  font-family:Sans-Serif;
+  line-height:22px;
+  padding-left:350px;
+}
+
+.ul2{
+  list-style-position:inside;
+}
+
+.p7{
+  font-family:Sans-Serif;
+  text-align:left;
+  margin-top:25px;
+  margin-left:380px;
+  width:620px;
+}
+
+.h2n3{
+  font-family:Sans-Serif;
+  text-align:center;
+  margin-top:50px;
+}
+
+.p8{
+  font-family:Sans-Serif;
+  text-align:left;
+  margin-left:380px;
+  width:620px;
+}
+
+.p9{
+  font-family:Sans-Serif;
+  text-align:left;
+  margin-left:380px;
+  width:620px;
+}
+
+.p10{
+  font-family:Sans-Serif;
+  text-align:left;
+  margin-left:380px;
+  width:620px;
+}
+
+.p11{
+  font-family:Sans-Serif;
+  text-align:center;
+  margin-top:10px;
+}
+
+.li2{
+  font-size:17px;
+  font-family:Sans-Serif;
+  line-height:25px;
+  padding-left:340px;
+}
+
+.ol1{
+  list-style-position:inside;
+  margin-bottom:35px;
+}
+
+.h3n1{
+  font-family:Sans-Serif;
+  text-align:center;
+  margin-top:50px;
+}
+
+.li3{
+  font-size:17px;
+  font-family:Sans-Serif;
+  line-height:25px;
+  padding-left:530px;
+}
+
+.ul3{
+  list-style-position:inside;
+  margin-bottom:35px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:48%;
+}
